@@ -1,0 +1,73 @@
+
+{
+	"template": "LAYOUT_MPD_M",
+	"epd_type": "HS_EL_5104",
+	"block_num": 1,
+	"encoding": "UTF-8",
+	"overlap_rule":"order_wise",
+	"screen_block": [
+ {
+  "block_name": "page",
+  "start_x": 1,
+  "end_x": 199,
+  "end_y": 50,
+  "start_y": 2,
+  "font_type": "Arial Bold 16",
+  "content_type": "CONTENT_TYPE_TEXT",
+  "content_title": "NONE",
+  "content_value": "Page Number 2",
+  "content_color": "BLACK",
+  "content_alignment": "CENTER",
+  "content_vertical_alignment":"CENTER",
+  "content_reverse": "FALSE",
+  "origin_font_type": 0
+ },
+  {
+  "block_name": "price",
+  "start_x": 1,
+  "end_x": 199,
+  "end_y": 100,
+  "start_y": 51,
+  "font_type": "Arial Bold 16",
+  "content_type": "CONTENT_TYPE_TEXT",
+  "content_title": "NONE",
+  "content_value": "bind with:$itemName",
+  "content_color": "BLACK",
+  "content_alignment": "CENTER",
+  "content_vertical_alignment":"CENTER",
+  "content_reverse": "FALSE",
+  "origin_font_type": 0
+ },
+   {
+  "block_name": "price",
+  "start_x": 1,
+  "end_x": 199,
+  "end_y": 150,
+  "start_y": 101,
+  "font_type": "Arial Bold 16",
+  "content_type": "CONTENT_TYPE_TEXT",
+  "content_title": "NONE",
+  "content_value": "price:$price1",
+  "content_color": "BLACK",
+  "content_alignment": "CENTER",
+  "content_vertical_alignment":"CENTER",
+  "content_reverse": "FALSE",
+  "origin_font_type": 0
+ },
+{
+  "block_name": "price",
+  "start_x": 1,
+  "end_x": 199,
+  "end_y": 199,
+  "start_y": 151,
+  "font_type": "Arial Bold 16",
+  "content_type": "CONTENT_TYPE_TEXT",
+  "content_title": "NONE",
+  "content_value": "stock:$price1Description",
+  "content_color": "BLACK",
+  "content_alignment": "CENTER",
+  "content_vertical_alignment":"CENTER",
+  "content_reverse": "FALSE",
+  "origin_font_type": 0
+ }
+]}

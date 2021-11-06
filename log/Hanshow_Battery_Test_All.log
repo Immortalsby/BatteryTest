@@ -1,0 +1,12 @@
+2021-10-19 17:18:59,710 - INFO - Read TEST_COUNT: File initalized with ---- 0,0,Test product 1
+2021-10-19 17:18:59,710 - INFO - ----------Starting Binding & Unbinding Process----------
+2021-10-19 17:18:59,736 - INFO - Read TEST_COUNT: File data got ---- {'price': 0, 'product': 'Test product 1', 'stock': 0}
+2021-10-19 17:18:59,737 - INFO - Starting Binding Process For Esl: 53-98-F2-CE
+2021-10-19 17:18:59,763 - INFO - Success!Message:{"status_no": 1, "errmsg": "In processing", "user": "handy.handy"}
+2021-10-19 17:22:37,321 - INFO - Starting Binding Process For Esl: 56-81-E3-C4
+2021-10-19 17:22:37,338 - INFO - Success!Message:{"status_no": 1, "errmsg": "In processing", "user": "handy.handy"}
+2021-10-19 17:25:47,398 - INFO - Write TEST_COUNT: File data write with ---- 0,0,Test product 2
+2021-10-19 17:25:47,607 - INFO - ----------Starting Price Update Process----------
+2021-10-19 17:25:47,621 - INFO - Read TEST_COUNT: File data got ---- {'price': 0, 'product': 'Test product 2', 'stock': 0}
+2021-10-19 17:25:47,621 - INFO - Starting Price Update Process For Esl: 53-98-F2-CE
+2021-10-19 17:25:47,634 - INFO - Success!Message:{"status_no": 1, "errmsg": "In processing", "user": "handy.handy"}

@@ -1,0 +1,25 @@
+Project Title : Hanshow Battery Test Tool Version 1.0
+
+For Hanshow Battery Test Only
+
+Getting Started 
+Prerequisites 
+1. Python 2.7
+2. pip
+
+Installation of packages
+1. pip install progressbar2
+2. pip install requests
+3. pip install logging
+
+For Running:
+OS X & Linux & Windows:
+python eslMain.py
+
+Deployment
+1. Modify lib/config.py
+2. Add esl id in ESL_INFO: Format [esl_id,model_of_esl]
+3. Replace templates folder for eslworking, modify them if necessary
+
+Authors
+Boyuan - Hanshow France

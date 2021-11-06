@@ -1,0 +1,13 @@
+{
+"default_page": "data_s",
+"pages": [
+{
+"id": 0,
+"name": "data_s"
+},
+{
+"id": 1,
+"name": "stock_s"
+}
+]
+}
